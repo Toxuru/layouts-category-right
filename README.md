@@ -7,4 +7,5 @@ A category widget that works with discourse-layouts
 Only for testing. The author places the plugin to show a possible implementation. There is no support!
 
 Some variables are hard-coded, for example:  ```var maxCategoriesToDisplay = 28;``` 
- layouts-category/assets/javascripts/discourse/widgets/category.js.es6
+
+in layouts-category/assets/javascripts/discourse/widgets/category.js.es6
