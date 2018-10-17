@@ -1,4 +1,4 @@
-# name: layouts-category
+# name: layouts-category-right
 # about: A category widget that works with discourse-layouts
 # version: 0.1
 # authors: Evg - Angus McLeod
