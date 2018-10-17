@@ -11,5 +11,5 @@ after_initialize do
 end
 
 DiscourseEvent.on(:layouts_ready) do
-  DiscourseLayouts::WidgetHelper.add_widget('category', position: 'left', order: 'start')
+  DiscourseLayouts::WidgetHelper.add_widget('category', position: 'right', order: 'start')
 end
